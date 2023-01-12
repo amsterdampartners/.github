@@ -1,4 +1,4 @@
-<img src="aenp.png" alt="Stichting amsterdam&partners">
+<img src="aenp.png" alt="Stichting amsterdam&partners">. 
 # Stichting amsterdam&partners  
 amsterdam&partners is een non-profit organisatie. Ons doel is te bouwen aan een betere reputatie van de Metropool Amsterdam door het gidsen van bewoners, bedrijven en bezoekers langs alle bekende en onbekende plekken en mogelijkheden van de stad en de metropool.  
 
